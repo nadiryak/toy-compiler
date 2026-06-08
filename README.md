@@ -17,3 +17,5 @@ Implementation of a small programming language in OCaml to explore compiler desi
 
 ```text
 1 + 2 * 3
+Expected output :
+7
